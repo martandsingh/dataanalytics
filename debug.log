@@ -1,4 +1,0 @@
-[0702/083934.200:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0704/085156.455:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0710/095116.543:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0722/090225.378:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
